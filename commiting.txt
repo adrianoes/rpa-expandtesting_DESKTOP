@@ -1,0 +1,25 @@
+Creating a project and commiting for the first time:
+
+git init
+git remote add origin git@github.com:adrianoes/rpa-expandtesting_DESKTOP
+git branch -M main
+git remote set-url origin git@github.com:adrianoes/rpa-expandtesting_DESKTOP
+git status
+git add .
+git commit -m "First commit. Basic structure was created"
+git push -u origin main
+
+
+Commiting for second time and so on:
+
+git status
+git add .
+git commit -m "updating packets. final version"
+git push -u origin main
+
+(refresh page after api cmds)
+size limit----\-------------------------------------------------------------------------\
+commits history are placed in C:\rpa-expandtesting_DESKTOP\.git\logs\refs\heads
+
+
+
